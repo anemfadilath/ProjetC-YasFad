@@ -1,0 +1,23 @@
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\bin\Debug\Projet Yasmine Fadila.exe.config
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\bin\Debug\Projet Yasmine Fadila.exe
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\bin\Debug\Projet Yasmine Fadila.pdb
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\obj\Debug\Projet Yasmine Fadila.csproj.AssemblyReference.cache
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\obj\Debug\Projet Yasmine Fadila.csproj.CoreCompileInputs.cache
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\obj\Debug\Projet Yasmine Fadila.exe
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\obj\Debug\Projet Yasmine Fadila.pdb
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\bin\Debug\EPPlus.dll
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\bin\Debug\System.Buffers.dll
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\bin\Debug\System.Memory.dll
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\bin\Debug\EPPlus.xml
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\bin\Debug\System.Buffers.xml
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\bin\Debug\System.Memory.xml
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fadila\OneDrive\Bureau\archives\cours\c#\Projet Yasmine Fadila\Projet Yasmine Fadila\obj\Debug\Projet Y.C6151F0D.Up2Date

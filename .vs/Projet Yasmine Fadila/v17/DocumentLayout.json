@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84FFA0AF-7B90-4DCC-ADA2-1A24DB55A2DA}|ProjetTest\\ProjetTest.csproj|c:\\users\\fadila\\onedrive\\bureau\\archives\\cours\\c#\\projet yasmine fadila\\projettest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FFA0AF-7B90-4DCC-ADA2-1A24DB55A2DA}|ProjetTest\\ProjetTest.csproj|solutionrelative:projettest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\projet yasmine fadila\\arbre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|solutionrelative:projet yasmine fadila\\arbre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\projet yasmine fadila\\gestionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|solutionrelative:projet yasmine fadila\\gestionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\projet yasmine fadila\\noeudarbre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|solutionrelative:projet yasmine fadila\\noeudarbre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|c:\\users\\fadila\\onedrive\\bureau\\archives\\cours\\c#\\projet yasmine fadila\\projet yasmine fadila\\chauffeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|solutionrelative:projet yasmine fadila\\chauffeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\projet yasmine fadila\\listegenerique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|solutionrelative:projet yasmine fadila\\listegenerique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\projet yasmine fadila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|solutionrelative:projet yasmine fadila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\projet yasmine fadila\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|solutionrelative:projet yasmine fadila\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\projet yasmine fadila\\noeudgenerique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|solutionrelative:projet yasmine fadila\\noeudgenerique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\projet yasmine fadila\\camionciterne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|solutionrelative:projet yasmine fadila\\camionciterne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\projet yasmine fadila\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|solutionrelative:projet yasmine fadila\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\projet yasmine fadila\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|solutionrelative:projet yasmine fadila\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\projet yasmine fadila\\camionbenne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|solutionrelative:projet yasmine fadila\\camionbenne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\projet yasmine fadila\\camionfrigorifique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|solutionrelative:projet yasmine fadila\\camionfrigorifique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\projet yasmine fadila\\adresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5973287-F1A2-4AD0-8A89-ABB82A8C7215}|Projet Yasmine Fadila\\Projet Yasmine Fadila.csproj|solutionrelative:projet yasmine fadila\\adresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\Client.cs",
+              "RelativeDocumentMoniker": "Projet Yasmine Fadila\\Client.cs",
+              "ToolTip": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\Client.cs",
+              "RelativeToolTip": "Projet Yasmine Fadila\\Client.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAcwN4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:24:34.511Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\ProjetTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ProjetTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\ProjetTest\\UnitTest1.cs",
+              "RelativeToolTip": "ProjetTest\\UnitTest1.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwHcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:11:40.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CamionCiterne.cs",
+              "DocumentMoniker": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\CamionCiterne.cs",
+              "RelativeDocumentMoniker": "Projet Yasmine Fadila\\CamionCiterne.cs",
+              "ToolTip": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\CamionCiterne.cs",
+              "RelativeToolTip": "Projet Yasmine Fadila\\CamionCiterne.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:28:51.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CamionFrigorifique.cs",
+              "DocumentMoniker": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\CamionFrigorifique.cs",
+              "RelativeDocumentMoniker": "Projet Yasmine Fadila\\CamionFrigorifique.cs",
+              "ToolTip": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\CamionFrigorifique.cs",
+              "RelativeToolTip": "Projet Yasmine Fadila\\CamionFrigorifique.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:05:32.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CamionBenne.cs",
+              "DocumentMoniker": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\CamionBenne.cs",
+              "RelativeDocumentMoniker": "Projet Yasmine Fadila\\CamionBenne.cs",
+              "ToolTip": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\CamionBenne.cs",
+              "RelativeToolTip": "Projet Yasmine Fadila\\CamionBenne.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:57:16.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arbre.cs",
+              "DocumentMoniker": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\Arbre.cs",
+              "RelativeDocumentMoniker": "Projet Yasmine Fadila\\Arbre.cs",
+              "ToolTip": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\Arbre.cs",
+              "RelativeToolTip": "Projet Yasmine Fadila\\Arbre.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAFMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:28:24.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoeudArbre.cs",
+              "DocumentMoniker": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\NoeudArbre.cs",
+              "RelativeDocumentMoniker": "Projet Yasmine Fadila\\NoeudArbre.cs",
+              "ToolTip": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\NoeudArbre.cs",
+              "RelativeToolTip": "Projet Yasmine Fadila\\NoeudArbre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:10:27.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gestionnaire.cs",
+              "DocumentMoniker": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\Gestionnaire.cs",
+              "RelativeDocumentMoniker": "Projet Yasmine Fadila\\Gestionnaire.cs",
+              "ToolTip": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\Gestionnaire.cs",
+              "RelativeToolTip": "Projet Yasmine Fadila\\Gestionnaire.cs",
+              "ViewState": "AQIAAFsBAAAAAAAAAAAAwBUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T09:05:01.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chauffeur.cs",
+              "DocumentMoniker": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\Chauffeur.cs",
+              "RelativeDocumentMoniker": "Projet Yasmine Fadila\\Chauffeur.cs",
+              "ToolTip": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\Chauffeur.cs",
+              "RelativeToolTip": "Projet Yasmine Fadila\\Chauffeur.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:21:02.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Commande.cs",
+              "DocumentMoniker": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\Commande.cs",
+              "RelativeDocumentMoniker": "Projet Yasmine Fadila\\Commande.cs",
+              "ToolTip": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\Commande.cs",
+              "RelativeToolTip": "Projet Yasmine Fadila\\Commande.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAcwJ8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:24:54.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListeGenerique.cs",
+              "DocumentMoniker": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\ListeGenerique.cs",
+              "RelativeDocumentMoniker": "Projet Yasmine Fadila\\ListeGenerique.cs",
+              "ToolTip": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\ListeGenerique.cs",
+              "RelativeToolTip": "Projet Yasmine Fadila\\ListeGenerique.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T09:48:16.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Adresse.cs",
+              "DocumentMoniker": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\Adresse.cs",
+              "RelativeDocumentMoniker": "Projet Yasmine Fadila\\Adresse.cs",
+              "ToolTip": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\Adresse.cs",
+              "RelativeToolTip": "Projet Yasmine Fadila\\Adresse.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:06:36.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NoeudGenerique.cs",
+              "DocumentMoniker": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\NoeudGenerique.cs",
+              "RelativeDocumentMoniker": "Projet Yasmine Fadila\\NoeudGenerique.cs",
+              "ToolTip": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\NoeudGenerique.cs",
+              "RelativeToolTip": "Projet Yasmine Fadila\\NoeudGenerique.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T09:48:39.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\Personne.cs",
+              "RelativeDocumentMoniker": "Projet Yasmine Fadila\\Personne.cs",
+              "ToolTip": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\Personne.cs",
+              "RelativeToolTip": "Projet Yasmine Fadila\\Personne.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBAAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:32:49.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\Program.cs",
+              "RelativeDocumentMoniker": "Projet Yasmine Fadila\\Program.cs",
+              "ToolTip": "C:\\Users\\Fadila\\OneDrive\\Bureau\\archives\\cours\\c#\\Projet Yasmine Fadila\\Projet Yasmine Fadila\\Program.cs",
+              "RelativeToolTip": "Projet Yasmine Fadila\\Program.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAQwHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:31:05.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
